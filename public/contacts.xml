@@ -1,2 +1,21 @@
 <?xml version="1.0"?>
-<contacts><contact name="JUR - ISA SOUZA" number="3216" info="Not online" presence="1" directory="1" /></contacts>
+<contacts>
+  <contact name="*BOTI TRUCK" number="4020" info="Not online" presence="1" directory="1" />
+  <contact name="*GN MONITORAMENTO" number="3109" info="Not online" presence="1" directory="1" />
+  <contact name="*GN RECEPCAO" number="3001" info="Not online" presence="1" directory="1" />
+  <contact name="*LV ANJO DA GUARDA" number="7026" info="Not online" presence="1" directory="1" />
+  <contact name="*LV ASSAI CAMPINA GRANDE" number="5019" info="Not online" presence="1" directory="1" />
+  <contact name="*LV ATACADAO BR101" number="4021" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CARREFOUR" number="4008" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CARUTAPERA" number="7032" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CCAB" number="4007" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CEARA MIRIM" number="4042" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CENTRO MOSSORO " number="4028" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CENTRO NATAL" number="4005" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CIDADE ALTERNATIVO" number="4027" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CIDADE ATACADAO" number="4011" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CIDADE JARDIM" number="4003" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CIDADE OPERARIA" number="7013" info="Not online" presence="1" directory="1" />
+  <contact name="*LV CIDADE VERDE" number="4029" info="Not online" presence="1" directory="1" />
+  <contact name="*LV COHAB" number="7005" info="Not online" presence="1" directory="1" />
+  
